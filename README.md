@@ -1,8 +1,7 @@
-# AED - Algoritmos y Estructuras de Datos
+# Algoritmos y Estructuras de Datos
 
 - **Apellido:** Imeroni
 - **Nombre:** Francisco
 - **Legajo:** 209.030-2
-- **Curso:** [Completar con tu número de curso]
+- **Curso:** K1053
 - **Año de cursada:** 2026
-- **Cuatrimestre:** 1er Cuatrimestre
